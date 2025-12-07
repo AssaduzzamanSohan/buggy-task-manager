@@ -97,7 +97,4 @@ chmod +x ./simulate_race.sh
 
 ---
 
-## License
-This project is licensed under the MIT License.
-
 ````
